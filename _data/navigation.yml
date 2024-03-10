@@ -1,0 +1,23 @@
+# main links links
+main:
+  - title: "CV"
+    url: /cv/
+
+  - title: "Portfolio"
+    # url: /portfolio/
+    url: "https://github.com/Cz4rNy213?tab=repositories"
+
+  - title: "Publications"
+    url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  # - title: "Guide"
+  #   url: /markdown/
