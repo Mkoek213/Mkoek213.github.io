@@ -12,8 +12,6 @@ redirect_from:
 
 🤖I am interested in machine learning and artificial intelligence. 
 
-🤝I am looking for help to better understand how neural networks work.
-
 ⚡In my free time I train calisthenics.
 
 ## 🔗Problem-solving skills:
