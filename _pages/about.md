@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🔭I am a first year student at AGH University of Science and Technology in Krakow.
+🔭I am a second year student at AGH University of Science and Technology in Krakow.
 
 🤖I am interested in machine learning and artificial intelligence. 
 
@@ -27,6 +27,8 @@ redirect_from:
 - Scikit-Learn ⭐⭐⭐☆☆
 - Numpy ⭐☆☆☆☆
 - Tensorflow ⭐☆☆☆☆
+- Tableau ⭐☆☆☆☆
+- R ⭐☆☆☆☆
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mkoek213&show_icons=true&theme=transparent)<br/>
