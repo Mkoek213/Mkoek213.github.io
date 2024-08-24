@@ -1,7 +1,7 @@
 ---
 title: "Fine-Tuning YOLO for Road Sign and Object Detection on Polish roads"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/Mikołaj_Kołek,_2024_"Fine-Tuning_YOLO_for_Road_Sign_and_Object_Detection_on_Polish_roads
 excerpt: 'This paper is about fine-tuning a YOLO model to detect various road signs and objects on a custom dataset.'
 date: 2024-08-10
 venue: 'Medium'
