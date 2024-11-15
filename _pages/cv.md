@@ -48,8 +48,5 @@ Certificates
 ======
 <ul>
   <li><a href="https://www.linkedin.com/in/miko%C5%82aj-ko%C5%82ek-2b41292a0/details/certifications/" target="_blank">View my certificates</a></li>
-  {% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
 </ul>
   
