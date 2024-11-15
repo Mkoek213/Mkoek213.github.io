@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Computer Science and Intelligent Systems, Bachelor of Engineering
+  * AGH University of Science and Technology, Kraków, Poland
+  * 2023-10 - present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024-10 - present: Python Developer / Machine Learning Engineer
+  * Technology Startup, Kraków
+  Participating in a commercial project where I develop application functionality
+  in Python and implement Machine Learning solutions.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023-05 - present: Private Mathematics Tutor
+  * Self-Employment, Kraków
+  Preparation for Extended Matura Exam
   
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages
+  * Python, C, C++, SQL
+* Frameworks/Libraries
+  * Pytorch, NumPy, Scikit-Learn
 
 Publications
 ======
@@ -42,18 +39,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Languages
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Polish: Native
+* English: Fluent
   
-Teaching
+Certificates
 ======
-  <ul>{% for post in site.teaching %}
+<ul>
+  <li><a href="https://www.linkedin.com/in/miko%C5%82aj-ko%C5%82ek-2b41292a0/details/certifications/" target="_blank">View my certificates</a></li>
+  {% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
+</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
